@@ -1,0 +1,1 @@
+### Collection of Smelly Code Examples
